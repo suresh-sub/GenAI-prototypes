@@ -10,7 +10,7 @@ Each folder focuses on a **specific problem or use case** (e.g., fine-tuning, do
 ## Current Projects
 
 ### 🔹 LLM Fine-tuning — Sentiment Analysis
-Fine-tuned a **DistilGPT-2** causal language model for sentiment analysis using **LoRA (parameter-efficient fine-tuning)**.
+Fine-tuned and compared two causal language models — **DistilGPT-2** and **Qwen2.5-0.5B** — for sentiment analysis using **LoRA** (parameter-efficient fine-tuning).
 
 - Dataset: Rotten Tomatoes
 - Approach: Instruction-style prompting + causal LM fine-tuning
